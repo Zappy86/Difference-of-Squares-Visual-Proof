@@ -7,5 +7,5 @@ https://github.com/Zappy86/Difference-of-Squares-Visual-Proof/assets/146966002/2
 
 
 
-[Here](https://www.youtube.com/watch?v=9wWOEfcew6g) it is on youtube.
+[Here](https://www.youtube.com/watch?v=9wWOEfcew6g) it is on YouTube.
 [Here's](Demonstration_4k.mp4) the video if you want to download it for some reason.
